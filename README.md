@@ -1,6 +1,6 @@
 # Project Name
 
-A Simple Node.js Application for Generating PNG and URL.txt
+A Simple Node.js Application for Generating QR Code for URL
 
 ## Description
 
